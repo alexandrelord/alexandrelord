@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a music controller app using Django and Next.js
+- 🌱 I’m currently learning how to build APIs using Django
+
 <!--
 **alexandrelord/alexandrelord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
