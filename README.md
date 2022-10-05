@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a music controller app using Django and Next.js
-- 🌱 I’m currently learning how to build APIs using Django and Node
+- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on refactoring nature-based solutions using Typescript
 
 <!--
 **alexandrelord/alexandrelord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
