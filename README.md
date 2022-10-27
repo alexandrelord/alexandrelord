@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning GraphQL
-- 🔭 I’m currently working on refactoring nature-based solutions using Typescript
+- 🔭 I’m currently a lead backend developer for Empowered Futures.
 
 <!--
 **alexandrelord/alexandrelord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
