@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a lead backend developer for Empowered Futures.
-
 <!--
 **alexandrelord/alexandrelord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
